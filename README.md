@@ -88,6 +88,12 @@ O objetivo dessa aplicação foi estimar uma reta de regressão para a relação
   </tr>
  </table>
 
+## Diagrama de Dispersão
+
+<img src="test.png">
+
+  Há um forte indício de relação linear decrescente entre as variáveis em estudo. Nota-se que a massa muscular das pessoas diminui à medida que a idade aumenta. 
+
 -------------------------------------------------------------------------------------
 
 # Simple Linear Regression
